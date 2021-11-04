@@ -1,5 +1,5 @@
 <?php
-namespace Bodunde\GoogleGeocoder;
+namespace Paulpwo\GoogleGeocoder;
 
 use GuzzleHttp\Client;
 

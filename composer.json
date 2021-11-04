@@ -10,8 +10,8 @@
     ],
     "autoload": {
         "psr-4": {
-            "Bodunde\\GoogleGeocoder\\": "src/",
-            "Bodunde\\GoogleGeocoder\\Tests\\": "tests/"
+            "Paulpwo\\GoogleGeocoder\\": "src/",
+            "Paulpwo\\GoogleGeocoder\\Tests\\": "tests/"
         }
     },
     "require": {

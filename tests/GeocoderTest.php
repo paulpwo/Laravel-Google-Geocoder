@@ -1,7 +1,7 @@
 <?php
-namespace Bodunde\GoogleGeocoder\Tests;
+namespace Paulpwo\GoogleGeocoder\Tests;
 
-use Bodunde\GoogleGeocoder\Geocoder;
+use Paulpwo\GoogleGeocoder\Geocoder;
 
 class GeocoderTest extends \PHPUnit_Framework_TestCase
 {
